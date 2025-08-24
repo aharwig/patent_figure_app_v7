@@ -1,3 +1,0 @@
-poppler-utils
-tesseract-ocr
-#let me try this again
