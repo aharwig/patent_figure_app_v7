@@ -1,0 +1,1 @@
+streamlitnumpypillowopencv-python-headlessscikit-imagescipypdf2imagepytesseract
